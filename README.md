@@ -17,3 +17,8 @@ Here are some of my projects:
 1. Build and maintain Beautiful Website.
 2. Collaborate with like-minded developers to create impactful solutions.
 
+## 🤝 Let's Connect 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/252617765246)  
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/@farhaan252)  
+Feel free to reach out! I’m always happy to connect and learn together.  
+
